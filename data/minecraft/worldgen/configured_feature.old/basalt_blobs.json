@@ -24,7 +24,7 @@
             },
             "decorator": {
               "config": {
-                "maximum": 512,
+                "maximum": 320,
                 "bottom_inclusive": {
                   "above_bottom": 0
                 },
