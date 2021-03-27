@@ -75,7 +75,7 @@
   "spawners": {
     "monster": [
       {
-        "type": "minecraft:wither_skeleton",
+        "type": "minecraft:skeleton",
         "weight": 20,
         "minCount": 5,
         "maxCount": 5
@@ -107,7 +107,7 @@
     "misc": []
   },
   "spawn_costs": {
-    "minecraft:wither_skeleton": {
+    "minecraft:skeleton": {
       "energy_budget": 0.15,
       "charge": 0.7
     },
