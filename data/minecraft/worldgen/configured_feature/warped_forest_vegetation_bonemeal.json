@@ -4,27 +4,33 @@
       "entries": [
         {
           "data": {
-            "Name": "minecraft:crimson_roots"
+            "Name": "minecraft:warped_roots"
           },
-          "weight": 87
+          "weight": 85
         },
         {
           "data": {
-            "Name": "minecraft:crimson_fungus"
+            "Name": "minecraft:crimson_roots"
           },
-          "weight": 11
+          "weight": 1
         },
         {
           "data": {
             "Name": "minecraft:warped_fungus"
+          },
+          "weight": 13
+        },
+        {
+          "data": {
+            "Name": "minecraft:crimson_fungus"
           },
           "weight": 1
         }
       ],
       "type": "minecraft:weighted_state_provider"
     },
-    "spread_width": 8,
-    "spread_height": 4
+    "spread_width": 3,
+    "spread_height": 1
   },
   "type": "minecraft:nether_forest_vegetation"
 }
